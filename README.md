@@ -82,3 +82,6 @@ https://www.linkedin.com/in/sebastian-peralta-249781178
 
 GitHub  
 https://github.com/SebPy00
+
+My Personal Web
+https://sebtech.dev
