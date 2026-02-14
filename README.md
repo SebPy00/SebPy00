@@ -1,16 +1,84 @@
-## Hi there 👋
+# Sebastián Peralta
 
-<!--
-**SebPy00/SebPy00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Lead & Software Architect based in Paraguay.
 
-Here are some ideas to get you started:
+I design and lead production-grade backend systems, APIs, and data pipelines focused on reliability, scalability, and real-world delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I do
+
+- Production backend systems
+- PostgreSQL performance & data modeling
+- API architecture & integrations
+- CI/CD pipelines and delivery automation
+- Technical leadership and system evolution
+
+---
+
+## Selected Projects
+
+### RAG Tracker
+Evaluation and observability platform for retrieval-augmented generation systems.
+
+Tracks:
+- retrieval quality
+- prompt versions
+- dataset experiments
+- scoring runs
+
+Stack:
+Python · FastAPI · PostgreSQL · Docker
+
+---
+
+### SIGESAWEB
+Large operational CRM system used in debt collection environments.
+
+Led:
+
+- architecture improvements
+- CI/CD pipelines with Jenkins
+- test environment setup
+- module refactoring
+
+Result:
+Higher release reliability and production stability.
+
+---
+
+### CSV / ETL Parser Engine
+
+Data ingestion pipeline supporting multiple inconsistent CSV formats.
+
+Includes:
+
+- normalization rules per client
+- validation logic
+- controlled database insertion
+
+Stack:
+Python · PostgreSQL · automation pipelines
+
+---
+
+## Tech Stack
+
+Backend:
+Python · FastAPI · Go · Node
+
+Database:
+PostgreSQL · Redis
+
+Infra:
+Docker · CI/CD · Jenkins
+
+---
+
+## Contact
+
+LinkedIn  
+https://www.linkedin.com/in/sebastian-peralta-249781178
+
+GitHub  
+https://github.com/SebPy00
